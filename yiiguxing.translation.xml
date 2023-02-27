@@ -1,0 +1,21 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1677495352944" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="The &quot;Family pair&quot; field should not be empty." />
+      <item value="Поле «Семейная пара» не должно быть пустым." />
+      <item value="The &quot;Family pair&quot; field must be empty." />
+      <item value="Полее &quot;family_pair&quot; должно быть пустым" />
+      <item value="Поле не должно быть пустым" />
+      <item value="Поле должно быть заполнено" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="5" />
+        <entry key="RUSSIAN" value="5" />
+      </map>
+    </option>
+  </component>
+</application>
